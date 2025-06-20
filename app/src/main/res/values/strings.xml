@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataSokoni</string>
+    <string name="data_sokoni">Data Sokoni</string>
+    <string name="welcome_isaac_to_data_sokoni_where_we_value_our_customers">Welcome Isaac to Data Sokoni, where we value our customers</string>
+    <string name="_1_buy_data_deals">1. Buy data Deals</string>
+    <string name="_2_buy_monthly_deals">2. Buy Monthly Deals</string>
+    <string name="_3_buy_buy_sms_deals">3. Buy Buy Sms Deals</string>
+    <string name="mambo_sasa_ni_chap_chap_shwari_kabisaa_with_automated_services">Mambo sasa ni chap chap shwari kabisaa with automated services</string>
+</resources>

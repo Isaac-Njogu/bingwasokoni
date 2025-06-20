@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFF44336</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="blue">#FF2196F3</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="orange">#FFFF9800</color>
+    <color name="purple">#FF9C27B0</color>
+    <color name="pink">#FFE91E63</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="light_blue">#FF03A9F4</color>
+    <color name="teal">#FF009688</color>
+    <color name="indigo">#FF3F51B5</color>
+    <color name="lime">#FFCDDC39</color>
+    <color name="amber">#FFFFC107</color>
+    <color name="deep_orange">#FFFF5722</color>
+    <color name="deep_purple">#FF673AB7</color>
+    <color name="cyan">#FF00BCD4</color>
+    <color name="brown">#FF795548</color>
+    <color name="blue_gray">#FF607D8B</color>
+    <color name="light_black">#FF333333</color>
+    <color name="light_white">#FFFFFFFF</color>
+    <color name="light_red">#FFFFCDD2</color>
+    <color name="light_green">#FFC8E6C9</color>
+    <color name="light_yellow">#FFFFF9C4</color>
+    <color name="light_orange">#FFFFE0B2</color>
+    <color name="light_purple">#FFE1BEE7</color>
+    <color name="light_pink">#FFF8BBD0</color>
+    <color name="light_gray">#FFEEEEEE</color>
+    <color name="light_teal">#FFB2DFDB</color>
+    <color name="light_indigo">#FFC5CAE9</color>
+    <color name="light_lime">#FFF0F4C3</color>
+    <color name="light_amber">#FFFFECB3</color>
+    <color name="light_deep_orange">#FFFFCCBC</color>
+    <color name="light_deep_purple">#FFD1C4E9</color>
+    <color name="light_cyan">#FFB2EBF2</color>
+    <color name="light_brown">#FFD7CCC8</color>
+    <color name="light_blue_gray">#FFCFD8DC</color>
+    <color name="light_peach">#FFFFF1E0</color>
+    <color name="Royal_Purple">	#5A4FCF</color>>
+
+</resources>

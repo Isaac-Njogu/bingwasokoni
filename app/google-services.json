@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386558941673",
+    "project_id": "datasokoni1329",
+    "storage_bucket": "datasokoni1329.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386558941673:android:bf1e6cad8b60039fa6d378",
+        "android_client_info": {
+          "package_name": "com.data.datasokoni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQ8YstoyXByI1jBSOr5BiWGSUOlcv7Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
